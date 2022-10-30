@@ -11,5 +11,5 @@ permalink: /refs/
 | ------------- | ------------ | --------- | ---------------- | ------------ |
 | Majesté       | Coeur        | Coupe     | Force            | personnage   |
 | Résilience    | Carreau      | denier    | Résilience       | contrée      |
-| Transcendance | Pique        | épée      | Art de la guerre | organisation |
-| Suprématie    | Trèfle       | Psyché    | bâton            | objet        |
+| Suprématie    | Pique        | épée      | Art de la guerre | organisation |
+| Transcendance | Trèfle       | Psyché    | bâton            | objet        |

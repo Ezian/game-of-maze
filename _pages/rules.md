@@ -4,10 +4,16 @@ title: Règles
 permalink: /rules/
 ---
 
+- [Note d'intention](#note-dintention)
+- [Les personnages](#les-personnages)
+  - [Les caractéristiques](#les-caractéristiques)
 - [Déroulement d'une partie](#déroulement-dune-partie)
   - [Enfance - création des personnages et mise en place](#enfance---création-des-personnages-et-mise-en-place)
     - [Déroulement](#déroulement)
     - [Enchères](#enchères)
+    - [Caractériser les conflits](#caractériser-les-conflits)
+      - [Belligérance ou rivalité](#belligérance-ou-rivalité)
+      - [Eléments de conflits](#eléments-de-conflits)
   - [Premier acte](#premier-acte)
   - [Second acte](#second-acte)
   - [Épilogue](#épilogue)
@@ -15,28 +21,115 @@ permalink: /rules/
   - [Déroulement d'un conflit](#déroulement-dun-conflit)
   - [Déclaration du vainqueur](#déclaration-du-vainqueur)
 
+# Note d'intention
+
+Ce jeu a pour objectif de raconter des histoires qui pourraient se passer dans l'Univers d'Ambre et impliquant des descendants directs d'Obéron. Il pourrait être facilement adaptés pour jouer des membres d'une fratrie de la renaissance, à Florence ou à Venise, luttant pour le pouvoir et la domination sur leur cité, leur famille et sur les autres familles.
+
+En particulier, un des éléments que j'apprécie particulièrement dans l'univers d'Ambre décrit par Zelazny est l'idée que chacun sait quel est son niveau de compétence vis à vis d'un de ses ennemis, et est donc capable de savoir si, pour un conflit donné se jouant sur une compétence particulière, il va gagner ou perdre. Ainsi, aucune victoire n'est du à la chance, mais plutôt au contrôle des circonstances du conflit. C'est ce que j'essaye de modéliser au travers de l'usage des cartes : les joueurs sont amenés à modifier les enjeux et circonstances d'un conflit au travers des cartes qu'ils jouent et de leur narration.
+
+Ce jeu est conçu pour jouer des one-shots, il n'est pas pensé pour jouer en campagne. Chaque partie est unique et raconte le destin unique d'une nouvelle fratrie d'enfants d'Obéron.
+
+# Les personnages
+
+Les personnages des joueurs sont au coeur de l'intrigue. Ce sont des enfants d'Obéron, le Roi d'Ambre, absent depuis maintenant très longtemps.
+
+Chaque personnage se caractérise par les éléments suivants:
+
+* Son prénom,
+* Sa motivation, qui sera cachée jusqu'à la fin du jeu et doit être une phrase commençant par "Je veux..." et inciter à pousser à l'action 
+* Son classement dans chacune des caractéristiques, déterminé lors des enchères et qui servira à définir les vainqueurs de chacun des conflits. Le classement est représenté par une figure. Le Roi est supérieur à la Reine, elle même dominant le Cavalier, qui lui domine le Valet.
+
+## Les caractéristiques
+
+Chaque caractéristique est associée à une couleur d'un jeu de Tarot
+
+| Caractéristique | Marseille (Traditionnel) | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| --------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Majesté         | Coupe (Coeur)            | La Majesté définit la puissance intrinsèque, corporelle d'un personnage. C'est à la foi une mesure de force physique, de sa beauté, de sa prestance. Le Roi de Coupe est le meilleur à la lutte, et c'est également celui que la noblesse ambrienne respecte le plus. Quand il parle, tous sont captivés. Quand il hausse le ton, tous se taise. Mais tous l'aime.                                                                                                                                                            |
+| Résilience      | Denier (Carreau)         | La Résilience est tout à la fois la résistance, la ténacité d'un personnage, que sa capacité à se sortir de n'importe quelle mauvais pas. C'est aussi la mesure de la capacité d'un personnage à voyager dans les Ombres avec vitesse et discrétion. Le Roi de Denier est un voyageur inégalable. Il peut se sortir de toute les situations, même les plus épineuses, par la seule force de son astuce et de sa ténacité. Il est partout chez lui, a des amis dans toutes les couches de la société, même les plus douteuses. |
+| Suprématie      | Epée (Pique)             | La Suprématie est la mesure de celui qui utilise son esprit pour vaincre. Elle définit tout à la fois les capacités martiales d'un épéiste, que la qualité d'un grand général. Au échecs, au go, le Roi d'Epée est imbattable. Il lève des troupes en claquant des doigts, car tous savent que son esprit et sa clairvoyance assurera la victoire la plus totale, quelle que soit la situation. Dans un duel loyal à l'épée, nul ne peut le vaincre, et il est certain qu'il aurait prévu  si un duel était déloyal.          |
+| Transcendance   | Bâton (Trèfle)           | La Transcendance est l'empire qu'un Ambrien exerce sur son propre esprit et celui des autres. Il lui permet de percer les mystères du monde est les utiliser à son avantage. Le Roi de Bâton est le plus puissant Sorcier du multivers. Il est capable d'écraser l'esprit d'un être simplement en le touchant, d'exercer le plus implacable des conditionnements à un esprit faible, ou même fort. La magie n'a aucun secret pour lui, quant au multivers... S'il n'était presque infini, il n'en aurait pas non plus.        |
+
 # Déroulement d'une partie
+
+La partie se découpe en quatre phases:
+
+* L'enfance, pendant laquelle les joueurs créé leurs personnages, enchérissent pour définir leurs classements et définissent les conflits qui les opposent.
+* Le premier acte, pendant lequel les joueurs initient chacun une scène mettant en scène leur personnage évoluant autour de l'un de leurs propres conflits. Les inimités se renforcent et d'éventuelles alliances se créent.
+* Le second acte, pendant lequel les joueurs initient chacun une scène mettant en scène leur personnage sur n'importe lequel des conflits. Les inimités trouvent leurs paraoxysmes, les alliances se brisent ou se renforcent.
+* L'épilogue, durant lequel les joueurs racontent le destin de leur personnage, en fonction de ce qu'ils ont obtenus
+
 ## Enfance - création des personnages et mise en place
 
 ### Déroulement
 
-- chaque joueur prends un post-it et écrit d'un côté le nom de son personnage, de l'autre une phrase commençant par "je veux ...". Il n'y a pas de contraintes sur cette phrase mais cela doit les mener vers l'action. "je veux devenir le Roi" "Je veux protéger mon sang" " Je veux la perte d'Ambre" sont des phrases acceptables. Ces phrases sont tenue secrète jusqu'à la fin de la partie, mais les joueurs doivent les lire à chaque fois qu'il mettent en place une scène.
-- Distribution des cartes équitablement (on classe les cartes de 1 à 10 en mélangeant les couleurs par rang, et on distribue. On donne également une figure à chacun, pour les enchères)
-- placer 1 arcane majeur entre chaque joueur et définissez sa thématique en se basant sur la description (ce sont les "conflits")
-- Enchères : les joueurs encherissent sur chaque carac dans un ordre déterminé aléatoirement. Chaque carte posée doit être posée sur un conflit soit à droite soit a gauche définissant la relation des personnages entre les deux. A la fin des enchères, chaque joueur a un classement dans les différentes caractéristiques, ou n'est pas classé (s'il n'a pas enchéri)
-- les conflits entre chaque personnages sont caractérisés (rivalité si plus de carreau/cœur, belligerence si plus de épée/bâton) et défini (a partir de la thématique des arcanes majeur et en s'appuyant sur les cartes posées et des tables. Les cartes choisie sont retournées - elle ne compte plus dans la résolution du conflit tant qu'elle n'auront pas été remise côté verso). 1 carte par joueur impliqué dans le conflit. Si un conflit a moins de deux cartes, prendre une carte non retournée d'un conflit ayant le plus de cartes
+Le déroulement de l'enfance se fait de la manière suivante:
+
+- *Motivation:* Chaque joueur prends un post-it et écrit d'un côté le nom de son personnage, de l'autre une phrase commençant par "je veux ...". 
+  - Il n'y a pas de contraintes sur cette phrase mais cela doit les mener vers l'action. 
+  - "Je veux devenir le Roi", "Je veux protéger mon sang", " Je veux la perte d'Ambre" sont des motivations acceptables. 
+  - Les motiviations sont tenues secrètes jusqu'à la fin de la partie,
+  - Les joueurs doivent lire leur propre motivation à chaque fois qu'ils mettent en place une scène.
+- Distribuer aléatoirement les Arcanes mineures aux joueurs, à l'exception des Figures
+  - Les Arcanes mineures sont toutes les cartes de Coupes, de Deniers, de Bâtons et d'Epées ne figurant pas un personnage. 
+  - Les Figures sont les cartes de chaque couleur figurant un Roi, une Reine, une Cavalier ou un Valet
+- Distribuer au hasard une Arcane majeur à chaque joueur. Elle servira de "Joker" pendant les enchères, si un joueur ne souhaite pas enchérir sur une caractéristique.
+  - Dans ce cas, il sera "non classé" dans cette caractéristique, et ne pourra en aucun cas gagner de conflit sur cette caractéristique.
+- Placer 1 arcane majeur entre chaque joueur puis lisez ses thématiques en se basant sur les tables.
+  - La caractérisation "Belligérance" ou "Rivalité" se fait à la fin des enchères.
+- Procéder aux enchères (voir [Enchères](#enchères)).
+- Caractériser les conflits (voir [Caractériser les conflits](#caractériser-les-conflits))
 
 ### Enchères
-- chaque joueur pose une carte face cachée.
-- toutes les cartes sont retournées : si un joueur a posé une figure, il s'abstient : Il ne sera pas classé pour cette enchère.
-- En cas d'égalité, les joueurs concernés posent une seconde carte face cachée : elle doit être différente d'une carte visible. Les joueurs révèlent leur carte en même temps, puis remplacent celle déjà posée. En cas d'égalité, on recommence.
-- quand toutes les mises initiales sont différentes, les joueurs peuvent ajouter des cartes à leur mise, à condition d'atteindre une somme supérieure à la meilleure mise.
-- quand plus personne n'enchérit, on répartit les classements : roi pour la plus haute mise, reine ensuite, cavalier, valet. Si il y a cinq joueurs, les suivants n'ont pas de classement et récupére leurs mises. Les vainqueurs laissent les mises sur les conflits et on passe à l'enchère suivante.
 
-Note les enchères se font devant, c'est à la fin de l'enchère que les joueurs, dans l'ordre du perdant au vainqueur pose sa mise à droite ou à gauche.
+- Mélanger les Rois de chaque couleur, afin de déterminer aléatoirement l'ordre des enchères.
+- Puis, révéler chacun des Rois un par un et procéder à l'enchère de la caractéristique qui lui est associé de la manière suivante:
+  - Chaque joueur pose une carte face cachée devant lui.
+  - Retourner toutes les cartes en même temps.
+    - Si un joueur a posé son arcane majeur, il s'abstient : il reprends son arcane dans son jeu et ne participera pas à l'enchère (et ne sera donc pas classé sur cette caractéristique)
+    - En cas d'égalité entre deux cartes retournées:
+      - Les joueurs concernés posent une seconde carte face cachée, qui doit être différente d'une carte visible.
+      - Les joueurs révèlent leur carte en même temps, puis récupère celle qu'ils avaient déjà posé dans leur jeu.
+      - Si l'égalité persiste, les joueurs concernés recommencent jusqu'à ce que toutes les cartes faces visible soit différente.
+  - Une fois que toutes les mises initiales sont différentes, les joueurs peuvent ajouter des cartes à leur mise
+    - Chaque carte ajoutée s'additionne à la précédente pour calculer la mise totale
+    - Il n'est autorisé de placer une carte que si la somme est supérieure ou égale à la meilleure mise.
+  - Quand plus personne ne souhaite enchérir, le classement est déterminé et les figures de la couleur distribués aux joueurs
+    - Roi pour la plus haute mise, 
+    - Reine ensuite,
+    - Cavalier ensuite, 
+    - Valet enfin. 
+    - Si il y a cinq joueurs, les suivants n'ont pas de classement et récupèrent leurs mises. 
+  - Les joueurs classés, dans l'ordre inverse de classement (Valet, puis Cavalier, puis Reine, puis Roi), posent leur mise sur le conflit à leur droite ou à leur gauche, au choix.
+    - Les cartes posées sur les conflits permettront d'en déterminer la nature et les enjeux.
 
+### Caractériser les conflits
+
+Une fois les enchères terminées, chaque conflit devraient avoir plusieurs arcanes mineures de différentes couleurs et valeurs placés autour de l'Arcane majeur définissant la thématique.
+
+#### Belligérance ou rivalité
+
+Pour chaque conflit, additionnez, d'une part la valeur des cartes Coupe et Coeur, et d'autres part la valeur des cartes Epée et Baton.
+
+* En cas de majorité de Coupe/Coeur, le conflit est une rivalité.
+* En cas de majorité de Bâton/Epée, le conflit est une belligérance.
+* En cas d'égalité, c'est une rivalité sur le point d'éclater en guerre ouverte.
+
+Relisez la thématique de chaque conflit (associée à l'Arcane Majeure), avant de passer à la suite.
+
+#### Eléments de conflits
+
+Chacun son tour, dans un ordre libre, les joueurs choisissent une des cartes sur le conflit et se rapportent à la table correspondant à sa couleur pour définir un élément du conflit en fonction de sa valeur.
+
+La carte choisie est retournée face cachée et n'entrera plus en jeu dans l'évaluation du conflit à moins d'être retournée lors d'une scène.
+
+Si un conflit a moins de deux cartes, un joueur peux choisir une carte d'un autre conflit ayant plus de deux cartes à la place.
+
+A la fin de cette séquence, tous les conflits ont une thématique, un niveau (rivalité ou belligérance), ainsi que deux éléments de conflits, correspondant à deux cartes face cachée. Notez tous ces éléments sur un post-it avant de continuer.
 
 ## Premier acte
+
+TODO
 
 Chaque joueur initie une scène sur un de ses conflits, dans l'ordre qu'ils souhaitent.
 

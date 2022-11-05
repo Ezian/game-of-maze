@@ -171,39 +171,39 @@ Dans ce cas l'ambrien est libre de choisir : soit il a trouvé le moyen d'échap
 
 ## Majorité d'Épée (ou Pique)
 
-- **1**: vous êtes mort. Et pas de manière glorieuse. Une connerie. Soit on vous a assassiné dans votre sommeil, soit vous avez perdu à un duel que vous avez initié et que vous ne pouviez pas perdre. Un truc de ce niveau.
-- **2**: Vous êtes mort. Votre mort n'a rien d'honteuse, vous vous êtes bien battu, mais personne n'était là pour le voir. Peut-être même que personne ne sait que vous êtes mort.
-- **3**: Votre dernier conflit vous a laissé diminué. Peut-être avez vous perdu un membre, un objet de pouvoir, bref vous ne retrouverez jamais la puissance qui était la votre. Et ultime conflit vous a contraint à l'exil, et votre nom est désormais honni à Ambre. Ou alors vous êtes simplement mort et vos proches peuvent vous pleurer honorablement.
-- **4**: On vous a remis dans le rang, et vous avez perdu un peu de vous. Peut-être vous ne retrouverez jamais votre degré de puissance. Ou alors vous êtes mort glorieusement, pour Ambre et votre fratrie se rappellerait de vous avec reconnaissance, s'ils en était capable. Il y a même peut-être une statue de vous sur la grande place.
-- **5**: Vous êtes au sommet de votre art. Tous connaissent votre nom et reconnaît votre suprématie. Mais dans votre dos, on crache sur votre nom et on aimerait vous voir mort. Encore faudrait-il que quelqu'un soit assez puissant pour vous tuer 
-- **6+**: Vos ennemis sont morts ou estropié. Vous êtes au sommet, point. Personne ne cherche à vous faire tomber : il ne reste de vos adversaires que ceux qui n'ont pas le courage, et encore moins la force de s'opposer à vous.
+<!--- **1**: vous êtes mort. Et pas de manière glorieuse. Une connerie. Soit on vous a assassiné dans votre sommeil, soit vous avez perdu à un duel que vous avez initié et que vous ne pouviez pas perdre. Un truc de ce niveau.-->
+- **1**: Vous êtes mort. Votre mort n'a rien d'honteuse, vous vous êtes bien battu, mais personne n'était là pour le voir. Peut-être même que personne ne sait que vous êtes mort.
+- **2**: Votre dernier conflit vous a laissé diminué. Peut-être avez vous perdu un membre, un objet de pouvoir, bref vous ne retrouverez jamais la puissance qui était la votre. Et ultime conflit vous a contraint à l'exil, et votre nom est désormais honni à Ambre. Ou alors vous êtes simplement mort et vos proches peuvent vous pleurer honorablement.
+- **3**: On vous a remis dans le rang, et vous avez perdu un peu de vous. Peut-être vous ne retrouverez jamais votre degré de puissance. Ou alors vous êtes mort glorieusement, pour Ambre et votre fratrie se rappellerait de vous avec reconnaissance, s'ils en était capable. Il y a même peut-être une statue de vous sur la grande place.
+- **4**: Vous êtes au sommet de votre art. Tous connaissent votre nom et reconnaît votre suprématie. Mais dans votre dos, on crache sur votre nom et on aimerait vous voir mort. Encore faudrait-il que quelqu'un soit assez puissant pour vous tuer 
+- **5+**: Vos ennemis sont morts ou estropié. Vous êtes au sommet, point. Personne ne cherche à vous faire tomber : il ne reste de vos adversaires que ceux qui n'ont pas le courage, et encore moins la force de s'opposer à vous.
 
 ## Majorité de Bâton (ou Trèfle)
 
-- **1**: Vous avez joué et vous avez perdu. Vous êtes l'esclave sans libre arbitre d'une entité indicible de la Réalité. Vous ne vous en rendez même pas compte.
-- **2**: Vous avez joué et vous avez perdu. Vous êtes le serviteur d'une entité innommable de la Réalité. Même si vous en avez conscience, vous savez que votre sang n'est pas assez puissant pour lutter.
-- **3**: Vous n'êtes pas sorti indemne de tout ces conflits, mais au moins vous êtes vivant. Il va vous falloir des siècles pour retrouver votre puissance d'antan.
-- **4**: Certains de vos pions ont obtenu des rangs intéressant, mais vous nourrissez des doutes sur qui les contrôle vraiment. Votre nouvelle position est plus fragile que vous le pensez.
-- **5**: Rien ne peu se produire à Ambre sans qu'on vous mette au courant. Vous aurez toujours un coup d'avance
-- **6+**: Rien ne se produit en Ambre sans que ce soit une part d'un de vos plans. Vous êtes le Marionnettiste, celui qui règne depuis l'ombre partout de ce côté ci du multivers.
+<!-- - **1**: Vous avez joué et vous avez perdu. Vous êtes l'esclave sans libre arbitre d'une entité indicible de la Réalité. Vous ne vous en rendez même pas compte. -->
+- **1**: Vous avez joué et vous avez perdu. Vous êtes le serviteur d'une entité innommable de la Réalité. Même si vous en avez conscience, vous savez que votre sang n'est pas assez puissant pour lutter.
+- **2**: Vous n'êtes pas sorti indemne de tout ces conflits, mais au moins vous êtes vivant. Il va vous falloir des siècles pour retrouver votre puissance d'antan.
+- **3**: Certains de vos pions ont obtenu des rangs intéressant, mais vous nourrissez des doutes sur qui les contrôle vraiment. Votre nouvelle position est plus fragile que vous le pensez.
+- **4**: Rien ne peu se produire à Ambre sans qu'on vous mette au courant. Vous aurez toujours un coup d'avance
+- **5+**: Rien ne se produit en Ambre sans que ce soit une part d'un de vos plans. Vous êtes le Marionnettiste, celui qui règne depuis l'ombre partout de ce côté ci du multivers.
 
 ## Majorité de Coupe (ou Coeur)
 
-- **1**: On vous a oublié, en fait c'est comme si vous n'aviez jamais existé. Vos portraits on été décroché et vos monuments rasé. Vos oeuvres, attribué à d'autres.
-- **2**: Vous êtes connu comme le frère ou la soeur d'un autre et vous ne sortirez jamais de son ombre.
-- **3**: vous devez lutter pour maintenir votre poids politique, mais d'autres que vous sont mieux placé et mieux reconnu
-- **4**: En apparence, tout vous a réussi, et tous penses que vous êtes au sommet de la pyramide. Mais vous savez les dettes que vous avez contracté et le prix qu'il vous reste à payer.
-- **5**: Vous êtes au sommet de la pyramide. Personne ne peux contester votre autorité, si ce n'est ce personnage à l'étoile montante que vous ne pouvez pas simplement évincer...
-- **6+**: Vous êtes êtes le maître incontestable et incontesté du domaine que vous avez choisi. Roi d'Ambre ou Empereur du Cercle, rien n'est hors de votre portée.
+<!-- - **1**: On vous a oublié, en fait c'est comme si vous n'aviez jamais existé. Vos portraits on été décroché et vos monuments rasé. Vos oeuvres, attribué à d'autres. -->
+- **1**: Vous êtes connu comme le frère ou la soeur d'un autre et vous ne sortirez jamais de son ombre.
+- **2**: vous devez lutter pour maintenir votre poids politique, mais d'autres que vous sont mieux placé et mieux reconnu
+- **3**: En apparence, tout vous a réussi, et tous penses que vous êtes au sommet de la pyramide. Mais vous savez les dettes que vous avez contracté et le prix qu'il vous reste à payer.
+- **4**: Vous êtes au sommet de la pyramide. Personne ne peux contester votre autorité, si ce n'est ce personnage à l'étoile montante que vous ne pouvez pas simplement évincer...
+- **5+**: Vous êtes êtes le maître incontestable et incontesté du domaine que vous avez choisi. Roi d'Ambre ou Empereur du Cercle, rien n'est hors de votre portée.
 
 ## Majorité de Deniers (ou Carreau)
 
-- **1**: Vous avez été emprisonné et estropié. Vous ne pourrez pas vous en sortir sans aide. Encore faudrait-il que quelqu'un veuille ou même puisse vous aider...
-- **2**: Vous avez été emprisonné dans une prison de laquelle vous ne pouvez pas échapper seul. Encore faudrait-il que quelqu'un veuille et puisse vous aider...
-- **3**: Vous êtes libre, mais vous n'êtes plus le bienvenue en Ambre. Peut-être même que quand on se souvient de vous, on vous envoie quelques assassins pour faire bonne mesure. Ou alors vous êtes toléré tant que vous suivez les ordres.
-- **4**: Vous êtes libre, et apprécié en Ambre. Chacun de vos retours est bien accueilli et parfois on vous demande des services 
-- **5**: Rien n'entre ou ne sort d'Ambre sans votre consentement. Vous êtes le maître des Ombre, mais vous n'êtes pas le seul.
-- **6+**: Ambre n'est que l'un des fiefs de l'un de vos nombreux domaines.
+<!-- - **1**: Vous avez été emprisonné et estropié. Vous ne pourrez pas vous en sortir sans aide. Encore faudrait-il que quelqu'un veuille ou même puisse vous aider...-->
+- **1**: Vous avez été emprisonné dans une prison de laquelle vous ne pouvez pas échapper seul. Encore faudrait-il que quelqu'un veuille et puisse vous aider...
+- **2**: Vous êtes libre, mais vous n'êtes plus le bienvenue en Ambre. Peut-être même que quand on se souvient de vous, on vous envoie quelques assassins pour faire bonne mesure. Ou alors vous êtes toléré tant que vous suivez les ordres.
+- **3**: Vous êtes libre, et apprécié en Ambre. Chacun de vos retours est bien accueilli et parfois on vous demande des services 
+- **4**: Rien n'entre ou ne sort d'Ambre sans votre consentement. Vous êtes le maître des Ombre, mais vous n'êtes pas le seul.
+- **5+**: Ambre n'est que l'un des fiefs de l'un de vos nombreux domaines.
 
 
 

@@ -227,6 +227,6 @@ Chaque joueur raconte le destin de son personnage en fonction des scènes jouée
 - Il compte le nombre de ses cartes Bâton/Épée d'un côté et le nombre de cartes Coupe/Coeur de l'autre. 
 - Ensuite il soustrait la plus grande valeur à la plus petite.
 - Plus cet écart est important, plus le personnage a un destin enviable. Moins il est important, plus son destin est funeste.
-- Consultez la [table d'épilogue](/tables/#%C3%A9pilogues) correspondant à la couleur ([Épée](/tables/#majorité-dépée-ou-pique), [Bâton](/tables/#majorité-de-bâton-ou-trèfle), [Coupe](/tables/#majorité-de-coupe-ou-coeur) ou [Deniers](/tables/#majorité-de-deniers-ou-carreau)) majoritaire dans votre jeu pour vous inspirer.
+- Consultez la [table d'épilogue]({{ site.baseurl }}/tables/#épilogues) correspondant à la couleur ([Épée]({{ site.baseurl }}/tables/#majorité-dépée-ou-pique), [Bâton]({{ site.baseurl }}/tables/#majorité-de-bâton-ou-trèfle), [Coupe]({{ site.baseurl }}/tables/#majorité-de-coupe-ou-coeur) ou [Deniers]({{ site.baseurl }}/tables/#majorité-de-deniers-ou-carreau)) majoritaire dans votre jeu pour vous inspirer.
 
 Puis, en commençant par le joueur ayant la fin la moins enviable, et en finissant par celui ayant celle la plus enviable, racontez l'épilogue de votre personnage.

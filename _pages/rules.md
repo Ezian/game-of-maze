@@ -30,6 +30,12 @@ En particulier, un des éléments que j'apprécie particulièrement dans l'unive
 
 Ce jeu est conçu pour jouer des one-shots, il n'est pas pensé pour jouer en campagne. Chaque partie est unique et raconte le destin unique d'une nouvelle fratrie d'enfants d'Obéron.
 
+Ses principales sources d'inspiration sont:
+
+- [Les Neuf Princes d'Ambre](https://fr.wikipedia.org/wiki/Les_Neuf_Princes_d%27Ambre) de Roger Zelzny
+- [Amber Diceless Roleplaying Game](https://en.wikipedia.org/wiki/Amber_Diceless_Roleplaying_Game), d'Erick Wujcik
+- [Fiasco](https://en.wikipedia.org/wiki/Fiasco_(role-playing_game), de Jason Morningstar
+
 # Personnages
 
 Les personnages des joueurs sont au coeur de l'intrigue. Ce sont des enfants d'Obéron, le Roi d'Ambre, absent depuis maintenant très longtemps.

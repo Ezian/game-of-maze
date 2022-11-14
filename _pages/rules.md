@@ -34,7 +34,7 @@ Ses principales sources d'inspiration sont:
 
 - [Les Neuf Princes d'Ambre](https://fr.wikipedia.org/wiki/Les_Neuf_Princes_d%27Ambre) de Roger Zelzny
 - [Amber Diceless Roleplaying Game](https://en.wikipedia.org/wiki/Amber_Diceless_Roleplaying_Game), d'Erick Wujcik
-- [Fiasco](https://en.wikipedia.org/wiki/Fiasco_(role-playing_game), de Jason Morningstar
+- [Fiasco](https://en.wikipedia.org/wiki/Fiasco_(role-playing_game)), de Jason Morningstar
 
 # Personnages
 

@@ -17,8 +17,13 @@ permalink: /rules/
       - [Eléments de conflits](#eléments-de-conflits)
   - [Premier acte](#premier-acte)
     - [Établir et résoudre une scène](#établir-et-résoudre-une-scène)
+      - [Mettre en place une scène](#mettre-en-place-une-scène)
+      - [Narrer une scène](#narrer-une-scène)
+      - [Clôturer une scène](#clôturer-une-scène)
     - [Déclaration du vainqueur](#déclaration-du-vainqueur)
     - [Conséquence du conflit](#conséquence-du-conflit)
+      - [Conséquence mécanique](#conséquence-mécanique)
+      - [L'histoire appartient aux vainqueurs](#lhistoire-appartient-aux-vainqueurs)
   - [Second acte](#second-acte)
   - [Épilogue](#épilogue)
 
@@ -151,6 +156,8 @@ Lors du premier acte, chacun des joueurs initie une scène sur un de ses propres
 
 Le joueur à l'initiative d'une scène, après avoir choisit le conflit sur laquelle elle portait, choisit qui va mettre en place la scène. Il peut choisir de le faire lui-même, ou de laisser les autres joueurs le faire. Si plusieurs joueurs mettent en place, ils peuvent librement se concerter avant de commencer la narration.
 
+#### Mettre en place une scène
+
 Le ou les joueurs qui mettent en place la scène respectent les règles suivantes:
 
 - Une scène doit être en rapport avec la thématique du conflit (l'Arcane majeure)
@@ -159,19 +166,60 @@ Le ou les joueurs qui mettent en place la scène respectent les règles suivante
 - Une scène doit toujours se diriger vers sa conclusion logique, en fonction des circonstances du conflit (voir [Déclaration du vainqueur](#déclaration-du-vainqueur))
 - Une scène doit avoir un enjeu, qui impacte les deux personnages impliqués dans le conflit, en bien ou en mal.
 
-Les joueurs qui mettent en place la scène commencent à parler, définissant la situation. Ils peuvent poser des questions sur comment réagissent les protagnistes (les personnages joueurs directement impliqués dans la scène), mais en l'absence d'intervention, la scène devra conduire à une résolution correspondant aux circonstances (arcanes mineurs face visible posées sur le conflit, voir [Déclaration du vainqueur](#déclaration-du-vainqueur)).
+Lors de la définition de la scène, **les joueurs qui mettent en place** *peuvent* poser des cartes pour changer les circonstances initiales du conflit. Ensuite, il choisisse un **narrateur**, qui:
 
-Tous les joueurs peuvent jouer des cartes sur le conflit pour prendre la parole, et décrire comment le changement de circonstance induit par la carte oriente l'issue de la scène vers la victoire de l'un ou l'autre, et pourquoi. La prise de parole doit être faire play : on ne coupe pas la parole, on pose une carte pour la demander, et celui qui parle, voyant la carte, laisse la parole.
+1. Annonce les circonstances du conflit (sur quel caractéristique le conflit se jouera)
+2. Puis raconte comment la scène se déroule pour tendre à se résoudre selon les circonstances du conflit (définies par les cartes initiales et éventuellement rajoutés par les joueurs mettant en place, voir [Déclaration du vainqueur](#déclaration-du-vainqueur)).
 
-A tout moment, lors d'un moment de suspens, c'est à dire un court silence dans la narration sans qu'une carte n'ait été posée pour demander la parole, le joueur impliqué dans le conflit qui n'a pas mis en place peut dire *Couper*. La narration s'arrête, on ne peut plus poser de carte pour orienter la résolution de la scène.
+#### Narrer une scène
 
-Cependant, à ce moment, chacun des joueurs, en commençant par ceux qui ont mis en place, peut choisir de, au choix:
+Pendant la narration, **les autres joueurs** (autre que le *narrateur*) peuvent intervenir:
 
-- Donner **une carte de sa main** au joueur initiateur de la scène, qu'il *mettra de côté*, puis retourner face visible une carte qui était face cachée
-- Donner **une carte mise de côté** au joueur initiateur de la scène, qu'il *mettra de côté*, puis retourner face cachée une carte qui était face visible 
+- Soit pour jouer leur personnage, ou un PNJ, à l'initiative du *narrateur*
+- Soit en proposant des suggestions au *narrateur*, sans modifier l'issue du conflit
+- Soit en demandant la parole, pour devenir **narrateur**. 
+
+Pour demander la parole, il faut que personne d'autre ne soit en train de la demander. Demander la parole implique les étapes suivantes:
+
+1. Le **joueur qui demande la parole**, après avoir vérifier que personne n'est en train de la demander, pose une carte de son jeu devant lui, face cachée, en signifiant explicitement son intention par un geste au *narrateur*
+2. Le **narrateur** termine sa ou ses phrases, puis laisse la parole.
+3. Le **joueur qui demande la parole** retourne sa carte, annonce le changement de circonstances du conflit, puis devient lui-même le narrateur.
+
+A tout moment, le **joueur qui n'a pas mis en place impliqué dans le conflit** peut dire *Couper* si les conditions suivantes sont réunies:
+
+1. aucune carte n'est posée pour demander une prise de parole, 
+2. un narrateur a annoncé les circonstances du conflit et a terminé une première phrase dans sa narration.
+
+Une fois qu'un joueur a dit *Couper*, plus personne ne peut demander la parole et donc modifier les circonstances du conflit. Le narrateur achève son récit en les respectant.
+
+#### Clôturer une scène
+
+Une fois que la narration est terminé (parce qu'un joueur a dit *Couper*, ou parce que personne n'a voulu enchérir), les joueurs peuvent changer une dernière fois l'issue de la scène.
+
+Dans un ordre respectant les règles suivantes:
+
+- D'abord le ou les joueurs qui ont mis en place
+  - En commençant par les joueurs les plus éloignés du conflit et du joueur qui n'a pas mis en place (si un seul joueur)
+- Ensuite les joueurs qui n'ont pas mis en place
+  - En commençant par les plus éloignés du conflit et du joueur qui n'a pas mis en place (si un seul joueur)
+
+Les joueurs peuvent:
+
+- Donner **une carte de sa main** à un joueur impliqué dans le conflit, au choix, qu'il *mettra de côté*, puis retourner face visible une carte qui était face cachée
+- Donner **une carte mise de côté** à un joueur impliqué dans le conflit, au choix, qu'il *mettra de côté*, puis retourner face cachée une carte qui était face visible 
 - Passer
 
 Ensuite, on évalue la situation et on déclare le vainqueur.
+
+**Exemple**
+
+| A | B |
+| C | D |
+
+*A* est l'initiateur du conflit, il choisit *A*/*B*:
+
+- Si A mets en place, l'ordre est: A, puis D, puis C, puis B
+- Si A ne met pas en place, l'ordre est: D, puis C, puis B, puis A
 
 ### Déclaration du vainqueur
 
@@ -202,6 +250,8 @@ Si une comparaison est nécessaire entre deux personnages non classé sur la car
 
 ### Conséquence du conflit
 
+#### Conséquence mécanique
+
 Les conséquences du conflit sont résolues, dans l'ordre, selon la manière suivante:
 
 * Le vainqueur du conflit choisit une carte parmi celles présentes et face visible (posée lors de l'enfance ou lors de la résolution du conflit) et *la met de côté*. 
@@ -210,6 +260,12 @@ Les conséquences du conflit sont résolues, dans l'ordre, selon la manière sui
   * Si le vainqueur l'accepte, il la *place dans sa main* et donne une carte au vaincu qu'il *mettra de côté*. 
 
 Dans le cas d'un ex aequo les deux joueurs prennent une carte et la place dans leur jeu en commençant par celui qui n'a pas mis en place et il n'y a pas d'étape de gage.
+
+#### L'histoire appartient aux vainqueurs
+
+Si un vainqueur est déclaré, il conclut la scène en racontant ce qu'a gagné son personnage et comment si les circonstances ont changés lors de la clôture de la scène.
+
+En cas d'ex aequo, les joueurs se mettent d'accord et narre collectivement le statu-quo
 
 ## Second acte
 

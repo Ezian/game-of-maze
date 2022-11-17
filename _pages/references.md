@@ -13,3 +13,11 @@ permalink: /refs/
 | Résilience    | Carreau      | denier    | Résilience       | contrée      |
 | Suprématie    | Pique        | épée      | Art de la guerre | organisation |
 | Transcendance | Trèfle       | Psyché    | bâton            | objet        |
+
+# Terminologie
+
+| Nom                              | Description |
+| -------------------------------- | ----------- |
+| Joueur(s) qui mettent en place   | TODO        |
+| Joueur à l'initiative du conflit | TODO        |
+| Narrateur                        | TODO        |

@@ -161,7 +161,7 @@ Le joueur à l'initiative d'une scène, après avoir choisit le conflit sur laqu
 Le ou les joueurs qui mettent en place la scène respectent les règles suivantes:
 
 - Une scène doit être en rapport avec la thématique du conflit (l'Arcane majeure)
-- Une scène doit impliquer une ou plusieures de ses caractéristiques (les objets, personnages, lieux ou organisations définies par les joueurs à la mise en place)
+- Une scène doit impliquer une ou plusieurs des **éléments** (les objets, personnages, lieux ou organisations définies par les joueurs à la mise en place)
 - Une scène doit mettre en scène **au moins** un des personnages des joueurs impliqués dans le conflit. Ces évènements lui arrivent à lui, et lui-même s'oppose soit directement, soit indirectement aux intérêts de son rival.
 - Une scène doit toujours se diriger vers sa conclusion logique, en fonction des circonstances du conflit (voir [Déclaration du vainqueur](#déclaration-du-vainqueur))
 - Une scène doit avoir un enjeu, qui impacte les deux personnages impliqués dans le conflit, en bien ou en mal.
